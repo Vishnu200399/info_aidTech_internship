@@ -12,6 +12,7 @@ In Task 1, I focused on the Iris dataset, a classic dataset for machine learning
 
 ## Task 2: Movie Recommendation System
 Task 2 revolved around building a movie recommendation system. I leveraged collaborative filtering and content-based approaches to provide personalized movie recommendations to users. This involved data collection, feature engineering, and the implementation of recommendation algorithms.
+
 ![Screenshot 2023-10-25 174445](https://github.com/Vishnu200399/info_aidTech_internship/assets/93635977/bd7bdd21-9b3a-41ea-bdbe-095c1116c44e)
 ![Screenshot 2023-10-25 174541](https://github.com/Vishnu200399/info_aidTech_internship/assets/93635977/0386c662-ab60-4dc7-bc0c-e82b1a5d638c)
 ![Screenshot 2023-10-25 174517](https://github.com/Vishnu200399/info_aidTech_internship/assets/93635977/bcdd3c5e-b699-49a5-b8c0-7f82dfe0bcfe)
